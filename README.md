@@ -2,8 +2,8 @@
 
 
 * Typo
-  *https://github.com/NohYunah/181101-tizen-project
+  * https://github.com/NohYunah/181101-tizen-project
 * coding style
-  * 
-  *
+  * a
+  * b
 * bulid
