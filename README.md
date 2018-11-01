@@ -3,7 +3,7 @@
 
 * Typo
   * https://github.com/NohYunah/181101-tizen-project
-* coding style
+* Coding Style
   * a
   * b
-* bulid
+* Bulid
